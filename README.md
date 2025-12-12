@@ -1,6 +1,14 @@
-# 💫 About Me:
-- 🔭 I’m currently working on  react projects<br>- 🌱 I’m currently learning react<br>- 🤔 I would be happy if you could share your comments with me<br>- 💬 Ask me about HTML ,CSS ,JS , PHP ,MYSQL,BOOTSTRAP,ML<br>- 📫 How to reach me: https://t.me/Z_Ershad
+<div align="center">
+<h1>Hi 👋🏻 , I'm <strong>Zahra</strong></h1>
+<h3>A passionate, junior full-stack <strong>developer</strong> ✨</h3>
+</div>
+<br/>
 
+
+
+# 💫 About Me:
+- 🔭 I’m currently working on  react projects<br>- 🌱 I’m currently learning react<br>- ☺️ I would be happy if you could share your comments with me<br>- 💬 Ask me about HTML ,CSS ,JS , PHP ,MYSQL,BOOTSTRAP,ML basics<br>- 📫 How to reach me: https://t.me/Z_Ershad
+<br> - 🎲 fun fact : Coding keeps me going more than coffee 👩🏻‍💻
 
 ## 🌐 Socials:
 <div align="left">
@@ -51,6 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+
 </div>
 
 ###
