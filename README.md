@@ -11,7 +11,7 @@
   <img width="12" />
   
   <!-- Gmail -->
-  <a href="zahraershad.dev@gmail.com">
+  <a href="mailto:zahraershad.dev@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" />
   </a>
   <img width="12" />
