@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 <div align="left">
   <!-- LinkedIn -->
-  <a href="in/zahra-ershad-44a5b9378">
+  <a href="https://www.linkedin.com/in/zahra-ershad-44a5b9378">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" />
     </a>
   <img width="12" />
