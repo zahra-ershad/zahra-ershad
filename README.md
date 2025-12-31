@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on  react projects<br>- 🌱 I’m currently learning react<br>- ☺️ I would be happy if you could share your comments with me<br>- 💬 Ask me about HTML ,CSS ,JS , PHP ,MYSQL,BOOTSTRAP,ML basics<br>- 📫 How to reach me: https://t.me/Z_Ershad
+- 🔭 I’m currently working on  react projects<br>- 🌱 I’m currently learning react<br>- ☺️ I would be happy if you could share your comments with me<br>- 💬 Ask me about <b> HTML ,CSS ,JS , PHP ,MYSQL,BOOTSTRAP,ML basics</b><br>- 📫 How to reach me: https://t.me/Z_Ershad
 <br> - 🎲 Fun fact : Coding keeps me going more than coffee 👩🏻‍💻
 
 ## 🌐 Socials:
