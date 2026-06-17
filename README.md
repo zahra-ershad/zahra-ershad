@@ -1,5 +1,9 @@
 <div align="center">
-<h1>Hi 👋🏻 , I'm <strong>Zahra</strong></h1>
+
+<img width="2359" height="639" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/523db5c3-7d23-4508-aff9-99cab9a3f0a5" />
+
+
+  
 <h3>A passionate, junior full-stack <strong>developer</strong> ✨</h3>
 </div>
 <br/>
